@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+}
+.div1
+{
+	background-color: #4CAF50;
+    padding: 5px;
+}
+.h2
+{
+font-size: 35px;
+    line-height: 1.4;
+    letter-spacing: 7.5px;
+    margin: 0px 0px 0px 500px;
+}
+.adminbtn
+{
+	    float: right;
+    background-color: #4CAF50;
+    font-family: inherit;
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+}
+.adminbtn:hover
+{
+	 background-color: #3e8e41;
+}
+.table
+{
+    width: 100%;
+    margin: 49px 0px 0px 0px;
+}
+.search
+{
+    width: 40%;
+    float: left;
+    margin: 58px 0px 0px 404px;
+}
+.totalclinic
+{
+    float: left;
+    margin: -87px 0px 0px -239px;
+    font-size: 16px;
+    font-family: monospace;
+    color: red;
+    text-align: center;
+}

@@ -52,7 +52,7 @@
 							<!--login button here -->
 							<br>
 							<button name="login"class="submit">Login</button><br><br>
-							<label class="lbl"><b>Or Register <a href="DoctorRegistration.php">here</a></b></label>
+							<label class="lbl"><b>Or Register <a href="HomePage.php">here</a></b></label>
 						</td>
 					</tr>
 				</table>

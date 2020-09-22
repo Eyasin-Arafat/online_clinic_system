@@ -1,0 +1,63 @@
+*{
+	margin:0;
+	padding:0;
+}
+.cregister{
+    margin: 0px 0px 0px 280px;
+    width: 550px;
+    color: black;
+    font-size: 18px;
+    padding: 99px;
+    border-radius: 10px;
+}
+.cregister .submit{
+    padding: 7px;
+    width: 550px;
+	 color: white;
+    font-family: monospace;
+    font-size: 21px;
+    margin-top: 27px;
+    cursor: pointer;
+	background-color:green;
+	  border: none;
+}
+.cregister .submit:hover {
+  background-color: #3e8e41;
+}
+label{
+    color: #100f0f;
+    font-size: 17px;
+    font-family: monospace;
+}
+#field{
+    width: 352px;
+    padding: 3px;
+    border-radius: 0px;
+    margin-left: 74px;
+	
+}
+.address{
+    width: 66px;
+    padding: 5px;
+    border-radius: 0px;
+    margin-left: 73px;
+	cursor: pointer;
+}
+.errmgs
+{
+	margin-left: 71px;
+    float: left;
+    color: red;
+}
+.head{
+    padding-bottom: 28px;
+    background-color: #4CAF50;
+}
+.l1
+{
+font-size: 29px;
+    line-height: 1.4;
+    letter-spacing: 7.5px;
+        margin-left: 484px;
+		    font-family: inherit;
+}

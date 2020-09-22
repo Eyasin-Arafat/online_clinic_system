@@ -1,7 +1,7 @@
 <?php
-	$servername="localhost";
-	$username="root";
-	$password="";
+	$servername="db4free.net";
+	$username="finalproject";
+	$password="123456789";
 	$databasename="online_clinic";
 
 	//execute query into database

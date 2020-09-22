@@ -50,7 +50,7 @@
 					}
 					else
 					{
-						header("location:../viewss/Login.php?empty=Password is wrong !");
+						header("location:../views/Login.php?empty=Password is wrong !");
 						/*header("location:../view/Login.php?empty=<?php echo $passdb?>");*/
 					}
 				}
