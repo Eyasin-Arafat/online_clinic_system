@@ -7,18 +7,18 @@
 	<body>
 		<div class="btngrp">
 			<label class="h1">Welcome to Online Clinic</label>
-
-			<button type="button"name="home"class="button"onclick="window.location='HomePage.php'">Home</button>
+			<button type="button"name="home"class="button"onclick="window.location='HomePage.php'">Home
+			</button>
 			<button type="button"name="home"class="button"onclick="window.location='Login.php'">Login</button>
 			
 			<div class="dropdown">
-				<button class="dropbtn">Sign up </button>
-
+				<button class="dropbtn">Sign up 
+				</button>
 				<div class="dropdown-content">
 				  <a href="DoctorRegistration.php">Doctor</a>
 				  <a href="PatientRegistration.php">Patient</a>
+				  
 				</div>
-				
 			</div> 
 		</div>
 		<div class="home">

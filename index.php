@@ -1,3 +1,3 @@
 <?php
-    header ('Location:php/HomeControl.php');
+    header ('Location:../php/HomeControl.php');
 ?>
