@@ -68,10 +68,11 @@ font-size: 35px;
   display: block;
   text-align: left;
 }
-
 .dropdown-content a:hover {
   background-color: #3e8e41;
 }
+
+
 
 .dropdown:hover .dropdown-content {
   display: block;
