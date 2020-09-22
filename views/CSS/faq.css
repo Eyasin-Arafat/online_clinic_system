@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.footer{
+	height: 250px;
+	text-align: center;
+	background-color: #232F3E;
+	font-family: candara;
+	color: #fff;
+	padding: 20px 20px;
+}
+.footer label{
+	font-family: impact;
+	font-size: 20px;
+	color: #ccc;
+}
+.footer li{
+	list-style: none;
+	color: #fff;
+}
+.footer a{
+	text-decoration: none;
+	color: #ccc;
+}
+.footer a:hover{
+	text-decoration: underline;
+}
+.footer .contact{
+	width: 25%;
+	float: left;
+}
+.footer .faq{
+	width: 25%;
+	float: right;
+}
+.footer .catagory{
+	width: 25%;
+	float: left;
+	margin: 0px 0px 0px 0px;
+}
+.footer .location{
+	width: 25%;
+	float: left;
+	margin: 0px 0px 0px 0px;
+}

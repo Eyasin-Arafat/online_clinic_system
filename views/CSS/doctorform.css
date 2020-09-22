@@ -1,0 +1,113 @@
+*{
+	margin:0;
+	padding:0;
+}
+h1{
+	text-align:center;
+	padding:20px;
+}
+h4{
+	    font-family: monospace;
+    color: purple;
+}
+.dregister{
+    margin: 0px 0px 0px 280px;
+    width: 550px;
+    color: black;
+    font-size: 18px;
+    padding: 99px;
+    border-radius: 10px;
+}
+#dregister{
+margin-left: 0px;
+}
+.errmgs
+{
+	margin-left: 71px;
+    float: left;
+    color: red;
+}
+label{
+    color: #100f0f;
+    font-size: 17px;
+    font-family: monospace;
+}
+#field{
+    width: 352px;
+    padding: 3px;
+    border-radius: 0px;
+    margin-left: 74px;
+    border-width: 1px;
+	
+}
+.address{
+    width: 66px;
+    padding: 5px;
+    border-radius: 0px;
+    margin-left: 73px;
+	cursor: pointer;
+}
+#description{
+    padding: 36px;
+    width: 353px;
+    border-radius: 0px;
+    margin-left: 73px;
+}
+.dregister .submit{
+    padding: 7px;
+    width: 550px;
+	 color: white;
+    font-family: monospace;
+    font-size: 21px;
+    margin-top: 27px;
+    cursor: pointer;
+	background-color:green;
+	  border: none;
+}
+.dregister .submit:hover {
+  background-color: #3e8e41;
+}
+.dregister .gender{
+	    margin-left: 77px;
+		    cursor: pointer;
+}
+.bottom{
+	    background-color: #617b8b;
+    padding: 100px;
+    text-align: center;
+}
+.bottom .d1{
+	    font-size: 29px;
+    color: white;
+}
+.btngrp1{
+    padding-bottom: 48px;
+    background-color: #4CAF50;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float:right;
+  font-family: inherit;
+}
+.button:hover{
+	  background-color: #3e8e41;
+}
+.dregister .para1{
+    width: 500px;
+    background-color: #c0e1f2;
+    width: 550px;
+	border-radius:15px;
+}
+.dregister .para1 .p1{
+    padding: 18px;
+    text-align: justify;
+    font-family: serif;
+}
