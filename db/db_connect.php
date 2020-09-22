@@ -1,8 +1,9 @@
 <?php
-	$servername="db4free.net";
-	$username="finalproject";
-	$password="123456789";
-	$databasename="online_clinic";
+	$servername="remotemysql.com";
+	$username="lbxtRrWEUV";
+	$password="MGyh8x7KrQ";
+	$databasename="lbxtRrWEUV";
+
 
 	//execute query into database
 	function execute ($query)

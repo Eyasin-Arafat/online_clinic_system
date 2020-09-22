@@ -1,0 +1,151 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+.div1
+{
+    background-color: #4CAF50;
+    padding: 6px;
+    text-align:center;
+}
+h2
+{
+    letter-spacing: 7.5px;
+    font-family: inherit;
+    font-size: 32px;
+    margin-left: 227px;
+}
+ .button
+{
+    float: right;
+    padding: 10px;
+    background-color: #4CAF50;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-family: inherit;
+    font-size: 20px;
+}
+.button:hover
+{
+    background-color:#3e8e41;
+}
+.bg-model
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    opacity: 1.7;
+    position: absolute;
+    top: 0px;
+display:none;
+justify-content:center;
+align-items:center;
+    
+}
+.model-content
+{
+    width: 500px;
+    height: 628px;
+    background-color: #2b2626;
+    border-radius:4px;
+    text-align:center;
+    padding:20px;
+    position:relative;
+}
+.content
+{
+        color: white;
+    font-family: inherit;
+    font-size: 14px;
+}
+.content-c
+{
+padding: 5px;
+    border: none;
+    width: 80%;
+    cursor: pointer;
+}
+.prescrive
+{
+width: 100px;
+    padding: 7px;
+    border: none;
+    background-color: green;
+    border-radius: 40px;
+    color: white;
+    font-family: inherit;
+    letter-spacing: 3px;
+    cursor:pointer;
+}
+.prescrive:hover
+{
+    background-color:#111;
+}
+.close{
+position: absolute;
+    top: 0;
+    right: 14px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+    color: red;
+    background-color: #2b2626;
+    border: none;
+}
+
+.table
+{
+    width: 98%;
+    margin: 49px 0px 0px 13px;
+    text-align: center;
+}
+.search
+{
+    width: 29%;
+    margin: 54px 0px 0px 25px;
+    float: left;
+}
+.setschedule
+{
+    background-color: #333;
+    margin: 0px 0px 0px 420px;
+    float: inherit;
+    width: 487px;
+    border: none;
+    border-radius: 5px;
+}
+.setschedule-content
+{
+    font-style: initial;
+    color: #d06185;
+}
+.setschedule-list
+{
+   
+       font-size: 20px;
+    letter-spacing: normal;
+    color: white;
+    padding: 56px 0px 85px 174px;
+}
+h5
+{
+        letter-spacing: normal;
+    padding: 22px 0px 0px 116px;
+}
+.pop
+{
+        border: none;
+    background-color: #2b2626;
+    font-size: 15px;
+    color: white;
+}
+.need
+{
+        text-align: initial;
+    padding: 0px 0px 0px 45px;
+}
+
+
